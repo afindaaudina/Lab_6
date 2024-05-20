@@ -5,6 +5,8 @@
     </head>
 
     <body>
-        
+        <?php
+PHP Code In Here
+?>
     </body>
 </html>
