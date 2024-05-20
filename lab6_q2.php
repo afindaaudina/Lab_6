@@ -8,10 +8,7 @@
         table, th, td {
             border: 1px solid black;
         }
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
+    
         </style>
     </head>
 
